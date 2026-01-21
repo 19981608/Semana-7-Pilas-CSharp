@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\bin\Debug\net10.0\Balanceo_Parentesis.exe
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\bin\Debug\net10.0\Balanceo_Parentesis.deps.json
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\bin\Debug\net10.0\Balanceo_Parentesis.runtimeconfig.json
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\bin\Debug\net10.0\Balanceo_Parentesis.dll
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\bin\Debug\net10.0\Balanceo_Parentesis.pdb
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.AssemblyInfo.cs
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.sourcelink.json
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.dll
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\refint\Balanceo_Parentesis.dll
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.pdb
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\Balanceo_Parentesis.genruntimeconfig.cache
+C:\Users\User\Documents\Proyectos_CSharp\Semana 7\Balanceo_Parentesis\obj\Debug\net10.0\ref\Balanceo_Parentesis.dll
